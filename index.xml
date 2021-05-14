@@ -6,7 +6,25 @@
     <description>Recent content on GaoQiangQiang&#39;s  personal  website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://DoggedByBadLuck.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2021 22:39:34 -0400</lastBuildDate><atom:link href="https://DoggedByBadLuck.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://DoggedByBadLuck.github.io/posts/notes/</link>
+      <pubDate>Thu, 13 May 2021 22:39:34 -0400</pubDate>
+      
+      <guid>https://DoggedByBadLuck.github.io/posts/notes/</guid>
+      <description>创建hugo个人网站 1.git clone https://riding-in-world-of-mortals/inn.git 2.cd inn 3.hugo new site hugo 4.cd hugo 5.搜索hugo,进入网站，选择博客主题 6.在gitee已登入页面的“我的”的页面的最右端的“+”中选择“从github/gitlab导入仓库”，将选择的hugo主题素材导入进来 7.git clone https://gitee.com/riding-in-the-world-of-mortals/hugo-theme-air.git 8.echo theme = &amp;quot;air&amp;quot; &amp;raquo; config.toml 9.hugo new posts/my-first-post.md 10.hugo new posts/notes.md 11.hugo server -D 12.hugo -D 13.hugo server &amp;ndash;theme=air &amp;ndash;buildDrafts 14.http://localhost:1313 15.假设你需要部署在 GitHub Pages 上，首先在GitHub上创建一个Repository，命名为：yourusername.github.io （yourusername替换为你的github用户名）。在站点根目录执行 Hugo 命令生成最终页面： 16.hugo &amp;ndash;theme=hyde &amp;ndash;baseUrl=&amp;ldquo;http://yourusername.github.io/&amp;quot; 17.如果一切顺利，所有静态页面都会生成到 public 目录，将pubilc目录里所有文件 push 到刚创建的Repository的 master 分支。 18.cd public 19.git init 20.git remote add origin https://github.com/yourusername/yourusername.github.io.git 21.git add -A 22.git commit -m &amp;ldquo;first commit&amp;rdquo; 23.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://DoggedByBadLuck.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 23 Apr 2021 05:03:36 -0400</pubDate>
+      
+      <guid>https://DoggedByBadLuck.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>sample</title>
       <link>https://DoggedByBadLuck.github.io/post/test/</link>
